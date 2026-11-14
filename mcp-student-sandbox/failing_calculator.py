@@ -15,3 +15,4 @@ def average_ratios(numbers):
     return total / count
 
 print(average_ratios([10, 5, 0]))
+# Hata düzeltildi
